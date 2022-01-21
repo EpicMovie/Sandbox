@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "khjl5tUoU3b2N8j9ZmfrG/LjALx34brQQnUnh9hImfvvvi9uztr8y60zazMNhriK+LUdQXyYc6Z5MWGQyHFvlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furymonkey\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furymonkey\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\furymonkey\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\furymonkey\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\furymonkey\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

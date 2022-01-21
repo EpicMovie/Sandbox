@@ -1,0 +1,5 @@
+C:\Users\furymonkey\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net3.0\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\furymonkey\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net3.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furymonkey\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net3.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\furymonkey\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net3.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\furymonkey\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net3.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
